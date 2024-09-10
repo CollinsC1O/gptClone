@@ -55,10 +55,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-- to clone use this command in your termminal `bash`:
    git clone https://github.com/CollinsC1O/gptClone.git
-
-- to enter into the cloned project directory after clone success:
    cd gptClone
 
 ## Usage
