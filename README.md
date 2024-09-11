@@ -47,7 +47,7 @@ The goal of this project is to create a chatbot that can answer user queries usi
 ### Links
 
 - Project Repository: (https://github.com/CollinsC1O/gptClone)
-- Live Demo: () -----
+- Live Demo: (https://chatbox-by-not-a-loop.netlify.app)
 
 ## Setup and Installation
 
@@ -63,7 +63,7 @@ To run this project locally, follow these steps:
 1. Open the app in your browser at http://localhost:3000.
 2. Enter your query in the chat input box and hit send.
 3. The chatbot will respond using the ChatGPT API.
-4. Or better still you can go to our project live link () ------
+4. Or better still you can go to our project live link (https://chatbox-by-not-a-loop.netlify.app)
 
 ## Technologies Used
 
