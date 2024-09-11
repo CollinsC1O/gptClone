@@ -46,8 +46,8 @@ The goal of this project is to create a chatbot that can answer user queries usi
 
 ### Links
 
-- Project Repository: (https://github.com/CollinsC1O/gptClone)
-- Live Demo: (https://chatbox-by-not-a-loop.netlify.app)
+- Project Repository: [github repo](https://github.com/CollinsC1O/gptClone)
+- Live Demo: [hosted-link](https://chatbox-by-not-a-loop.netlify.app)
 
 ## Setup and Installation
 
@@ -55,15 +55,16 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CollinsC1O/gptClone.git
+   git clone [this repository](https://github.com/CollinsC1O/gptClone.git)
    cd gptClone
 
 ## Usage
 
 1. Open the app in your browser at http://localhost:3000.
-2. Enter your query in the chat input box and hit send.
+1. Alternatively; copy the part of the index.html file and paste it in your browser.
+2. Enter your query in the chat input box and hit send or press enter key.
 3. The chatbot will respond using the ChatGPT API.
-4. Or better still you can go to our project live link (https://chatbox-by-not-a-loop.netlify.app)
+4. Or better still you can go to our project [live link](https://chatbox-by-not-a-loop.netlify.app)
 
 ## Technologies Used
 
@@ -80,6 +81,7 @@ During the development of this project, our team faced the following challenges:
 -   Ensuring the UI is responsive and adaptable to all devices.
 -   Understanding and integrating the ChatGPT API effectively.
 -   Managing asynchronous requests and handling API errors.
+-	Getting access to the api is not free it requires payment.
 
 We learned how to work with external APIs, handle asynchronous data, and improve collaboration within a team.
 
@@ -92,11 +94,11 @@ We learned how to work with external APIs, handle asynchronous data, and improve
 
 ## Resources
 
-- ChatGPT API Documentation (https://platform.openai.com/docs/guides/chat-completions)
-- w3schools (https://www.w3schools.com/js/)
-- Javascript.info (https://javascript.info)
-- freeCodeCamp (https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples)
-- MDN Web Docs (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+- [ChatGPT API Documentation](https://platform.openai.com/docs/guides/chat-completions)
+- [w3schools](https://www.w3schools.com/js/)
+- [Javascript.info](https://javascript.info)
+- [freeCodeCamp](https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
     
 ## Contributors
 
